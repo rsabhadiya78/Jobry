@@ -1,0 +1,52 @@
+================ Job Portal ====================
+
+=> Home Page
+- Job Search
+- User Type Selection (Employer/Candidate)
+- Top Trening Job Post
+- Top Hiring Companies
+- Job Categories
+- User Feedback
+
+=> Login 
+- Login With Email (Email/Password)
+
+=> Signup
+- User Type *
+- Name*
+- Email (with email verification) *
+- Password / Confirm Password *
+- Phone Number*
+
+------- Candidate -----------
+- Experience
+- Availability to join
+- Resume Upload
+
+------- Employer -----------
+- Company Name *
+- Company Type *
+- Company Address
+- Compnay Information
+
+=> After Login Home
+- Job Search Box (Advance Job Filter)
+- Top Trening Job Post
+- Top Hiring Companies
+- Job Categories
+
+=> Job Detail
+- 
+
+==> Job Posting
+- Job Title
+- Job Category
+- Pay Scale
+- Job Location
+- Experience
+- Education 
+- Gender
+- Job Type  (Full Time/Part Time)
+- Key Skill 
+- Other Requirements
+- Job Description
